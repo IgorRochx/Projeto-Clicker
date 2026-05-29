@@ -1,0 +1,57 @@
+# ── Pastas geradas automaticamente pelo Unity ─────────────────────────────
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+[Uu]ser[Ss]ettings/
+
+# ── Pastas geradas pelo Unity Package Manager ──────────────────────────────
+/[Pp]ackages/com.unity.*
+!/[Pp]ackages/com.unity.*/
+
+# ── Arquivos de cache ──────────────────────────────────────────────────────
+*.pidb.meta
+*.pdb
+*.mdb
+*.suo
+*.tmp
+*.unityproj
+*.DS_Store
+*.sln
+*.csproj
+
+# ── Visual Studio / Rider ──────────────────────────────────────────────────
+.vs/
+.idea/
+ExportedObj/
+.consulo/
+*.csproj
+*.unityproj
+*.sln
+*.suo
+*.tmp
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.svd
+*.pdb
+*.opendb
+*.VC.db
+
+# ── Assets que NÃO devem ser versionados ──────────────────────────────────
+# (descomente se quiser ignorar assets importados de pacotes externos)
+# /[Aa]ssets/[Aa]sset[Ss]tore-5.x/
+# /[Aa]ssets/TextMesh Pro/
+
+# ── Builds e binários ──────────────────────────────────────────────────────
+*.apk
+*.aab
+*.unitypackage
+*.app
+
+# ── Crash reports ──────────────────────────────────────────────────────────
+sysinfo.txt
+crashlytics-build.properties
